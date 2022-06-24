@@ -37,13 +37,15 @@
       </a>
       <br>Java&nbsp;(Core)
     </td>  
-    <td align="center" width="96">
+   </tr>
+   <tr> 
+         <td align="center" width="96">
       <a href=" ">
         <img src="./img/mysql_original_wordmark_logo_icon_146417.svg" width="48" height="48" alt="MySql" />        
       </a>
       <br>MySql&nbsp;(Core)
     </td>    
-   <tr> 
+   </tr>  
 </table>
 
 
