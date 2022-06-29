@@ -41,13 +41,13 @@
       <a href=" ">
         <img src="./img/angularjs_original_wordmark_logo_icon_146650.svg" width="48" height="48" alt="Angular" />        
       </a>
-      <br>Java&nbsp;(Core)
+      <br>Angular
     </td>  
     <td align="center" width="96">
       <a href=" ">
         <img src="./img/bootstrap_plain_logo_icon_146619.svg" width="48" height="48" alt="Bootstrap" />        
       </a>
-      <br>Java&nbsp;(Core)
+      <br>Bootstrap
     </td>  
     
    </tr>
