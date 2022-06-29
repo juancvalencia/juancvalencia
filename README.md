@@ -23,19 +23,19 @@
       <a href=" ">
         <img src="./img/csharp_original_logo_icon_146578.svg" width="48" height="48" alt="C#" />        
       </a>
-      <br>C#&nbsp;(Core)
+      <br>C#
     </td>
     <td align="center" width="96">
       <a href=" ">
         <img src="./img/python_original_logo_icon_146381.svg" width="48" height="48" alt="Python" />        
       </a>
-      <br>Python&nbsp;(Core)
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href=" ">
         <img src="./img/java_original_wordmark_logo_icon_146459.svg" width="48" height="48" alt="Java" />        
       </a>
-      <br>Java&nbsp;(Core)
+      <br>Java
     </td>  
     <td align="center" width="96">
       <a href=" ">
@@ -49,14 +49,32 @@
       </a>
       <br>Bootstrap
     </td>  
-    
+    <td align="center" width="96">
+      <a href=" ">
+        <img src="" width="48" height="48" alt="Bootstrap" />        
+      </a>
+      <br>Bootstrap
+    </td>  
+    <td align="center" width="96">
+      <a href=" ">
+        <img src="" width="48" height="48" alt="Bootstrap" />        
+      </a>
+      <br>Bootstrap
+    </td>  
+<td align="center" width="96">
+      <a href=" ">
+        <img src="./img/unity_logo_icon_144772.svg" width="48" height="48" alt="Unity" />        
+      </a>
+      <br>Unity
+    </td>  
+
    </tr>
    <tr> 
     <td align="center" width="96">
       <a href=" ">
         <img src="./img/mysql_original_wordmark_logo_icon_146417.svg" width="48" height="48" alt="MySql" />        
       </a>
-      <br>MySql&nbsp;(Core)
+      <br>MySql
     </td>    
     <td align="center" width="96">
       <a href=" ">
