@@ -52,12 +52,26 @@
     
    </tr>
    <tr> 
-         <td align="center" width="96">
+    <td align="center" width="96">
       <a href=" ">
         <img src="./img/mysql_original_wordmark_logo_icon_146417.svg" width="48" height="48" alt="MySql" />        
       </a>
       <br>MySql&nbsp;(Core)
     </td>    
+    <td align="center" width="96">
+      <a href=" ">
+        <img src="./img/php_plain_logo_icon_146397.svg" width="48" height="48" alt="PHP" />        
+      </a>
+      <br>PHP
+    </td>    
+    <td align="center" width="96">
+      <a href=" ">
+        <img src="./img/nodejs_original_wordmark_logo_icon_146412.svg" width="48" height="48" alt="NODE" />        
+      </a>
+      <br>NODEJS
+    </td>    
+
+
    </tr>  
 </table>
 
