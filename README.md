@@ -51,15 +51,15 @@
     </td>  
     <td align="center" width="96">
       <a href=" ">
-        <img src="" width="48" height="48" alt="Bootstrap" />        
+        <img src="./img/file_type_django_icon_130645.svg" width="48" height="48" alt="Django" />        
       </a>
-      <br>Bootstrap
+      <br>Django
     </td>  
     <td align="center" width="96">
       <a href=" ">
-        <img src="" width="48" height="48" alt="Bootstrap" />        
+        <img src="./img/file_type_jupyter_icon_130494.svg" width="48" height="48" alt="Jupyter" />        
       </a>
-      <br>Bootstrap
+      <br>Jupyter
     </td>  
 <td align="center" width="96">
       <a href=" ">
