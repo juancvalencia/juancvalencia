@@ -39,7 +39,7 @@
     </td>  
     <td align="center" width="96">
       <a href=" ">
-        <img src="./img/angularjs_original_wordmark_logo_icon_146650.svg" width="48" height="48" alt="Angular" />        
+        <img src="./img/angular_logo_icon_169595.svg)" width="48" height="48" alt="Angular" />        
       </a>
       <br>Angular
     </td>  
