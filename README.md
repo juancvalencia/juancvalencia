@@ -70,7 +70,18 @@
       </a>
       <br>NODEJS
     </td>    
-
+    <td align="center" width="96">
+      <a href=" ">
+        <img src="./img/html_original_wordmark_logo_icon_146478.svg" width="48" height="48" alt="HTML5" />        
+      </a>
+      <br>HTML5
+    </td>    
+    <td align="center" width="96">
+      <a href=" ">
+        <img src="./img/visualstudio_plain_logo_icon_146308.svg" width="48" height="48" alt="VisualCode" />        
+      </a>
+      <br>Visual Code
+    </td>    
 
    </tr>  
 </table>
