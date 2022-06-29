@@ -66,7 +66,7 @@
     </td>    
     <td align="center" width="96">
       <a href=" ">
-        <img src="./img/nodejs_original_wordmark_logo_icon_146412.svg" width="48" height="48" alt="NODE" />        
+        <img src="./img/file_type_node_icon_130301.svg" width="48" height="48" alt="NODE" />        
       </a>
       <br>NODEJS
     </td>    
