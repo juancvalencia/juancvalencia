@@ -100,6 +100,12 @@
       </a>
       <br>Visual Code
     </td>    
+    <td align="center" width="96">
+      <a href=" ">
+        <img src="./img/file_type_arduino_icon_130743.svg" width="48" height="48" alt="Arduino" />        
+      </a>
+      <br>Arduino
+    </td>    
 
    </tr>  
 </table>
