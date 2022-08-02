@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hola Amigo! .... Yo soy Juan Carlos Valencia</h1>
-<h3 align="left">En mayor o menor medida, he requerido el uso de programación. Solo con el proposito de expandir la comprensión científica de la Tierra y el Universo. Porque el llamado a otros planetas es inminente .. </h3>
+<h3 align="left">Apasionate en este gran mundo y encontraras grandes beneficios y sueños -- por ejemplo ser un gamer programador -- ser un cientifico de datos -- o mejor preparar las maquinas para llegar a luna o a marte o talvez hasta donde nuestra corta y valisa vida nos permita llegar .. Animo el camino siempre empieza todos los dias ...  </h3>
 
 <h1 align="left" id="macropower-title">⚡ ⚡  Bienvenidos ... ! ⚡ ⚡ </h1>
 
